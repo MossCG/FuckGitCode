@@ -1,4 +1,6 @@
 # FuckGitCode
+[What is this? (in English)](/what-is-this.md)
+
 开骂！
 
 老娘允许你爬老娘的项目了吗GitCode
