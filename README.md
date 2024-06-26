@@ -1,0 +1,2 @@
+# FuckGitCode
+开骂！
